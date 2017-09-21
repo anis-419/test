@@ -1,7 +1,8 @@
-global class COPClass1 {
+//Class created for US-45/W-00001
+
+global class COPClass2 {
     
-    
-    public void kaSoqlSelect () {
+    public void kaSoqlSelect2 () {
     
     string abc;
     
@@ -10,7 +11,6 @@ global class COPClass1 {
     a = 35;
     a = a -5;
     a = a - 19;
-    a = a + 19;
     
     }
     // do nothing
