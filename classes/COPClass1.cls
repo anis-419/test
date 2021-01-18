@@ -12,6 +12,8 @@ global class COPClass1 {
     a = a - 19;
     a = a + 19;
     a = a + 20;
+    a = a + 21; // 10-17-2017
+    a = a + 22; // 10-19-2017
     
     }
     // do nothing
